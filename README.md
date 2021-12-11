@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ilSPRITEli
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning advance css and js
+- 📫 How to reach me FB:"Sprite Kittipat"
