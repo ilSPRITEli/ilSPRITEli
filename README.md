@@ -1,6 +1,6 @@
 <!-- Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ilSPRITEli&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20UX%2FUI%20%7C%20Next.js%20%26amp%3B%20Prisma&descAlign=50&descAlignY=58&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=ilSPRITEli&desc=Full-Stack%20Dev%20%7C%20UX%2FUI%20%7C%20Next.js%20%26amp%3B%20Prisma&textBg=false&section=header&fontSize=72&fontAlignY=30&animation=fadeIn&rotate=0&descAlignY=46&reversal=false" />
 </p>
 
 <p align="center">
