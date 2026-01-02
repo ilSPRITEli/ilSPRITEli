@@ -1,6 +1,6 @@
 <!-- Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ilSPRITEli&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20UX%2FUI%20%7C%20Next.js%20%26%20Prisma&descAlign=50&descAlignY=58&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=520&lines=Hi+there+%F0%9F%91%8B+I'm+Sprite+(ilSPRITEli);Full-Stack+%7C+Frontend-leaning;UX%2FUI+%26+Design+%26+Product+thinking;Next.js+%7C+Prisma+%7C+PostgreSQL" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 ## 🌐 Connect with me
 <p align="left">
   <!-- Replace # with your real links -->
-  <a href="#" target="_blank">
+  <a href="spkittipat.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="#" target="_blank">
