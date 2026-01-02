@@ -101,14 +101,6 @@ I enjoy turning complex requirements into **clean interfaces** that scale.
 
 ---
 
-## 📌 Featured projects
-
-- 🔥 **Project A** — short one-liner (tech stack)
-- ✨ **Project B** — short one-liner (tech stack)
-- 🧪 **Project C** — short one-liner (tech stack)
-
----
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=100&text=Thanks%20for%20visiting!&fontAlign=50&fontAlignY=50&animation=fadeIn" />
