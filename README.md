@@ -16,15 +16,18 @@
 
 ---
 
-## 👋 About me
-- 🧠 Full-Stack / Frontend-leaning developer (เน้น UX/UI & interaction)
-- 🧩 Enjoy building: **Web Apps, Dashboards, Design Systems, Interactive UI**
-- ⚙️ Stack ที่ชอบ: **Next.js + Prisma + PostgreSQL**
-- 🎯 เป้าหมาย: ทำของที่ “สวย ใช้ได้จริง และสเกลได้”
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="30" height="30" /> About me
+I’m a **Full-Stack / Frontend-leaning** developer with a strong focus on **UX/UI, design systems, and interaction details**.  
+I enjoy turning complex requirements into **clean interfaces** that scale.
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Focus: **UX/UI • Frontend architecture • Product thinking**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Stack: **Next.js • React • Prisma • PostgreSQL**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="25" height="25" /> Tools: **Figma • Adobe • Blender**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bow%20and%20Arrow.png" alt="Bow and Arrow" width="25" height="25" /> I care about: **clarity, consistency, motion, and maintainability**
 
 ---
 
-## 🌐 Connect with me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" height="30" /> Connect with me
 <p align="left">
   <!-- Replace # with your real links -->
   <a href="spkittipat.dev" target="_blank">
