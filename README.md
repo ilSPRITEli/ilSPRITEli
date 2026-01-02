@@ -58,7 +58,6 @@
 ---
 
 ## 🧰 Tech Stack
-> โชว์แบบ “อ่านง่าย” + “ดูโปร” ด้วย badges (คุณยังเก็บ icon เดิมไว้ได้ในด้านล่างแบบ collapsible)
 
 ### 🧩 Software / Tools
 <p align="left">
@@ -105,7 +104,6 @@
 ---
 
 ## 📌 Featured projects
-> ใส่โปรเจกต์ที่อยากให้คนเห็นก่อน (แก้เป็น repo ของคุณเอง)
 
 - 🔥 **Project A** — short one-liner (tech stack)
 - ✨ **Project B** — short one-liner (tech stack)
@@ -125,8 +123,7 @@
 
 ---
 
-## 🐍 Contribution Snake (optional but cool)
-> เปิดใช้ได้โดยทำ GitHub Action (ถ้ายังไม่ทำ ให้ลบ section นี้ออกก่อนก็ได้)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ilspriteli/ilspriteli/output/snake.svg" alt="snake animation" />
